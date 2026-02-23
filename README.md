@@ -1,10 +1,10 @@
-# 🎬 Recomendador de Filmes — Letterboxd
+# Recomendador de Filmes — Letterboxd
 
 Sistema de recomendação de filmes construído com dados do Letterboxd, combinando filtragem baseada em conteúdo e score de qualidade para gerar recomendações precisas e relevantes.
 
 ## Demo
 
-👉 [Acesse o app aqui](https://share.streamlit.io)
+[Acesse o app aqui](https://share.streamlit.io)
 
 ---
 
