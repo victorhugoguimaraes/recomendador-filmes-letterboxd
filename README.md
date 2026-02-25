@@ -4,7 +4,7 @@ Sistema de recomendação de filmes construído com dados do Letterboxd, combina
 
 ## Demo
 
-[Acesse o app aqui](https://share.streamlit.io)
+[Acesse o app aqui](https://recomendador-letterboxd.streamlit.app)
 
 ---
 
