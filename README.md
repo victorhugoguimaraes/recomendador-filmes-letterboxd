@@ -1,4 +1,4 @@
-# Recomendador de Filmes — Letterboxd
+# Recomendador de Filmes - Letterboxd
 
 Sistema de recomendação de filmes construído com dados do Letterboxd, combinando filtragem baseada em conteúdo e score de qualidade para gerar recomendações precisas e relevantes.
 
@@ -108,4 +108,4 @@ Com 72k filmes a matriz de similaridade teria 72k × 72k = ~5 bilhões de valore
 Testes mostraram que descrições genéricas causavam matches incorretos entre filmes de gêneros completamente diferentes. Gênero, tema e diretor provaram ser sinais mais confiáveis.
 
 **Por que o diretor tem peso 1x e não maior?**
-Com peso maior, filmes do mesmo diretor ficavam muito similares independente do gênero — um curta-metragem podia aparecer como recomendação de um longa apenas por terem o mesmo realizador.
+Com peso maior, filmes do mesmo diretor ficavam muito similares independente do gênero - um curta-metragem podia aparecer como recomendação de um longa apenas por terem o mesmo realizador.
