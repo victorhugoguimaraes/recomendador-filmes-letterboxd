@@ -66,11 +66,11 @@ Dataset Letterboxd (Kaggle)
 
 ## Tecnologias
 
-- **Python** — linguagem principal
-- **Pandas / NumPy** — manipulação de dados
-- **Scikit-learn** — TF-IDF e similaridade de cosseno
-- **SQLite** — armazenamento dos similares pré-calculados
-- **Streamlit** — interface web
+- **Python** - linguagem principal
+- **Pandas / NumPy** - manipulação de dados
+- **Scikit-learn** - TF-IDF e similaridade de cosseno
+- **SQLite** - armazenamento dos similares pré-calculados
+- **Streamlit** - interface web
 
 ---
 
